@@ -1,0 +1,12 @@
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\Cmath\bin\Debug\net6.0\Cmath.deps.json
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\Cmath\bin\Debug\net6.0\Cmath.dll
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\Cmath\bin\Debug\net6.0\Cmath.pdb
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\Cmath\obj\Debug\net6.0\Cmath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\Cmath\obj\Debug\net6.0\Cmath.AssemblyInfoInputs.cache
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\Cmath\obj\Debug\net6.0\Cmath.AssemblyInfo.cs
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\Cmath\obj\Debug\net6.0\Cmath.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\Cmath\obj\Debug\net6.0\Cmath.sourcelink.json
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\Cmath\obj\Debug\net6.0\Cmath.dll
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\Cmath\obj\Debug\net6.0\refint\Cmath.dll
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\Cmath\obj\Debug\net6.0\Cmath.pdb
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\Cmath\obj\Debug\net6.0\ref\Cmath.dll

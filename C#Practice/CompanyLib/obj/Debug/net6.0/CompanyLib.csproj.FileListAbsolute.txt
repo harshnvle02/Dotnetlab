@@ -1,0 +1,12 @@
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\CompanyLib\bin\Debug\net6.0\CompanyLib.deps.json
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\CompanyLib\bin\Debug\net6.0\CompanyLib.dll
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\CompanyLib\bin\Debug\net6.0\CompanyLib.pdb
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\CompanyLib\obj\Debug\net6.0\CompanyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\CompanyLib\obj\Debug\net6.0\CompanyLib.AssemblyInfoInputs.cache
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\CompanyLib\obj\Debug\net6.0\CompanyLib.AssemblyInfo.cs
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\CompanyLib\obj\Debug\net6.0\CompanyLib.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\CompanyLib\obj\Debug\net6.0\CompanyLib.sourcelink.json
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\CompanyLib\obj\Debug\net6.0\CompanyLib.dll
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\CompanyLib\obj\Debug\net6.0\refint\CompanyLib.dll
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\CompanyLib\obj\Debug\net6.0\CompanyLib.pdb
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\CompanyLib\obj\Debug\net6.0\ref\CompanyLib.dll

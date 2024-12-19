@@ -1,0 +1,16 @@
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\DemoLibrary\bin\Debug\net6.0\DemoLibrary.deps.json
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\DemoLibrary\bin\Debug\net6.0\DemoLibrary.dll
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\DemoLibrary\bin\Debug\net6.0\DemoLibrary.pdb
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\DemoLibrary\bin\Debug\net6.0\CompanyLib.dll
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\DemoLibrary\bin\Debug\net6.0\CompanyLib.pdb
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\DemoLibrary\obj\Debug\net6.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\DemoLibrary\obj\Debug\net6.0\DemoLibrary.sourcelink.json
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\DemoLibrary\obj\Debug\net6.0\DemoLibr.2AF12875.Up2Date
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\DemoLibrary\obj\Debug\net6.0\DemoLibrary.dll
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\DemoLibrary\obj\Debug\net6.0\refint\DemoLibrary.dll
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\DemoLibrary\obj\Debug\net6.0\DemoLibrary.pdb
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\DemoLibrary\obj\Debug\net6.0\ref\DemoLibrary.dll

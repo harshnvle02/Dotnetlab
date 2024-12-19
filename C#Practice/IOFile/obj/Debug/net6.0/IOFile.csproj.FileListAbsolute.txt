@@ -1,0 +1,15 @@
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\IOFile\bin\Debug\net6.0\IOFile.exe
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\IOFile\bin\Debug\net6.0\IOFile.deps.json
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\IOFile\bin\Debug\net6.0\IOFile.runtimeconfig.json
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\IOFile\bin\Debug\net6.0\IOFile.dll
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\IOFile\bin\Debug\net6.0\IOFile.pdb
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\IOFile\obj\Debug\net6.0\IOFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\IOFile\obj\Debug\net6.0\IOFile.AssemblyInfoInputs.cache
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\IOFile\obj\Debug\net6.0\IOFile.AssemblyInfo.cs
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\IOFile\obj\Debug\net6.0\IOFile.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\IOFile\obj\Debug\net6.0\IOFile.sourcelink.json
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\IOFile\obj\Debug\net6.0\IOFile.dll
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\IOFile\obj\Debug\net6.0\refint\IOFile.dll
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\IOFile\obj\Debug\net6.0\IOFile.pdb
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\IOFile\obj\Debug\net6.0\IOFile.genruntimeconfig.cache
+C:\Users\harsh\Desktop\Dot Net Practice\C#Practice\IOFile\obj\Debug\net6.0\ref\IOFile.dll
