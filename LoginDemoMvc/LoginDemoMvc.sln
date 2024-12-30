@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginDemoMvc", "LoginDemoMvc\LoginDemoMvc.csproj", "{015F8275-1C90-49DA-A3C9-AEF79CC92AD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentDbMvc", "StudentDbMvc\StudentDbMvc.csproj", "{8B833FB1-9E71-4E08-AFA1-53D6C683D56A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmpMVC", "EmpMVC\EmpMVC.csproj", "{DBE53196-5E7C-4CF2-952C-910B48D94827}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{015F8275-1C90-49DA-A3C9-AEF79CC92AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015F8275-1C90-49DA-A3C9-AEF79CC92AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015F8275-1C90-49DA-A3C9-AEF79CC92AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015F8275-1C90-49DA-A3C9-AEF79CC92AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B833FB1-9E71-4E08-AFA1-53D6C683D56A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B833FB1-9E71-4E08-AFA1-53D6C683D56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B833FB1-9E71-4E08-AFA1-53D6C683D56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B833FB1-9E71-4E08-AFA1-53D6C683D56A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE53196-5E7C-4CF2-952C-910B48D94827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE53196-5E7C-4CF2-952C-910B48D94827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE53196-5E7C-4CF2-952C-910B48D94827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE53196-5E7C-4CF2-952C-910B48D94827}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

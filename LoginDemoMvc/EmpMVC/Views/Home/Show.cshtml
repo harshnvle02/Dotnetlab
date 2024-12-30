@@ -1,0 +1,59 @@
+﻿@model IEnumerable<EmpMVC.Models.EmpData>
+@{
+	ViewData["Title"] = "Employee List";
+}
+
+<div class="container my-5">
+	<div class="text-center mb-4">
+		<h1 class="display-6 fw-bold">Employee Management</h1>
+		<p class="text-muted">View, manage, and organize employee information.</p>
+	</div>
+
+	<div class="d-flex justify-content-end mb-3">
+		<a href="/Home/Create" class="btn btn-primary btn-lg">
+			<i class="bi bi-person-plus"></i> Add New Employee
+		</a>
+	</div>
+
+	@if (Model == null || !Model.Any())
+	{
+			<div class="alert alert-warning text-center" role="alert">
+				No employees found. Please add a new employee.
+			</div>
+	}
+	else
+	{
+			<div class="table-responsive">
+				<table class="table table-striped table-hover table-bordered align-middle">
+					<thead class="table-dark">
+						<tr>
+							<th>ID</th>
+							<th>Name</th>
+							<th>Address</th>
+							<th colspan="3" class="text-center">Actions</th>
+						</tr>
+					</thead>
+					<tbody>
+					@foreach (var emp in Model)
+					{
+								<tr>
+									<td>@emp.EmpId</td>
+									<td>@emp.Name</td>
+									<td>@emp.Address</td>
+									<td class="text-center">
+										<a href="/Home/Edit/@emp.EmpId" class="btn btn-sm btn-warning">
+											<i class="bi bi-pencil-square"></i> Edit
+										</a>
+									</td>
+									<td class="text-center">
+										<a href="/Home/Delete/@emp.EmpId" class="btn btn-sm btn-danger">
+											<i class="bi bi-trash"></i> Delete
+										</a>
+									</td>
+								</tr>
+					}
+					</tbody>
+				</table>
+			</div>
+}
+
